@@ -59,7 +59,7 @@ We would prefer that ideas and changes are first raised with the core team via [
 ### Prerequisites
 
 - [Rust](https://rustup.rs/) (latest stable)
-- [Node.js](https://nodejs.org/) (>=18)
+- [Node.js](https://nodejs.org/) (>=22.23.4)
 - [pnpm](https://pnpm.io/) (>=8)
 
 Additional development tools:

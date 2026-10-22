@@ -21,7 +21,7 @@ permissions:
   packages: write
 
 env:
-  NODE_VERSION: 22
+  NODE_VERSION: 22.23.4
   PNPM_VERSION: 10.13.1
 
 jobs:

@@ -2,7 +2,7 @@
 
 ARG APP_NAME=remote
 
-FROM node:20-alpine AS fe-builder
+FROM node:24.22.1-alpine AS fe-builder
 WORKDIR /repo
 
 RUN corepack enable
